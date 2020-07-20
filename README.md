@@ -1,4 +1,12 @@
-### Hi there 👋
+### Greetings.
+ ____________________
+< Please wear a mask >
+ --------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
 <!--
 **thegreenrobot/thegreenrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
